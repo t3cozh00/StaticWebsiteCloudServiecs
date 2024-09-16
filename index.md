@@ -1,44 +1,30 @@
-# Headings
-# My Static Website
-## Welcome to My GitHub Pages Site
-### Created with Markdown
+# Free choice extra assignment bundle E
+### Use Github Pages and use markdown language syntax (not HTML) to create a basic static website
 
-# Styling text
-**Bold Text**
-*Italic Text*
-~~Strikethrough~~
-This is an example of `inline code`.
-This is a <sub>subscript</sub> text
+# Answer
 
-# Quoting text
-> Text that is a quote
+# Nested list
+1. **Step 1: Create a New GitHub Repository**
+   - Name the repository: **StaticWebsiteCloudServices**
+   - Make the repository public
+2. **Step 2: Enable GitHub Pages**
+   - Under Source, select the main branch and click Save
+3. **Step 3: Create a Markdown File**
+   - Create a new file in the repository by clicking on Add file → Create new file.
+   - Name it index.md
+4. **Step 4: Use GitHub Flavored Markdown (GFM)**
+5. **Step 5: : Commit Changes and View the Site**
+   - Commit the index.md file
+   - GitHub generates  the website. It can be accessed at: [MyWebsite]([https://github.com](https://t3cozh00.github.io/StaticWebsiteCloudServiecs/)
 
-# Links
-[Visit GitHub](https://github.com)
-
-# Supported color models
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
+# Using emojis
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 # Images
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 
-# Unordered or ordered list
-- George Washington
-* John Adams
-+ Thomas Jefferson
-
-1. James Madison
-2. James Monroe
-3. John Quincy Adams
-
-# Nested list
-1. First list item
-   - First nested list item
-     - Second nested list item
-       - Third nested list item
-
-# Using emojis
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+# Supported color models
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 
 
