@@ -13,7 +13,8 @@
 4. **Step 4: Use GitHub Flavored Markdown (GFM)**
 5. **Step 5: : Commit Changes and View the Site**
    - Commit the index.md file
-   - GitHub generates  the website. It can be accessed at: [MyWebsite]([https://github.com](https://t3cozh00.github.io/StaticWebsiteCloudServiecs/)
+   - GitHub generates  the website. It can be accessed at:
+   - [MyWebsite](https://t3cozh00.github.io/StaticWebsiteCloudServiecs/)
 
 # Using emojis
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
