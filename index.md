@@ -2,8 +2,6 @@
 ### Use Github Pages and use markdown language syntax (not HTML) to create a basic static website
 
 # Answer
-
-# Nested list
 1. **Step 1: Create a New GitHub Repository**
    - Name the repository: **StaticWebsiteCloudServices**
    - Make the repository public
